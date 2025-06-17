@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Consumo Energético Fantasma",
+  "description": "Una aplicación web para calcular el costo mensual del consumo energético en modo de espera (consumo fantasma) de los dispositivos.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
