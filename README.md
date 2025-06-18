@@ -38,8 +38,8 @@ Además del cálculo económico, la aplicación brinda una **reflexión ambienta
 - Integración con datos obtenidos desde sensores mediante Arduino
 
 ## 📸 Capturas
-
-[Agregar aquí una o más imágenes del aplicativo]
+<img src="https://github.com/user-attachments/assets/cdc2c450-3076-4ba3-bf64-da64ec70f369" alt="drawing" width="350"/>
+<img src="https://github.com/user-attachments/assets/e27255c6-224f-4e5d-9e2d-847efc594fe4" alt="drawing" width="350"/>
 
 ## 🧪 Cómo probarlo
 
